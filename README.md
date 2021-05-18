@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a recent graduate currently looking for a job as a Web Developer/Back-End Software Engineer with some Front-End knowledge. My main languages/frameworks are JavaScript, Node.js, Express, Reactjs, MongoDB. I am currently learning Python.
+I am a recent graduate currently looking for a job as a JavaScript developer slightly favouring front-end but would like to eventually become full-stack. My main languages/frameworks are JavaScript, Node.js, Express, MongoDB, Python and am currently learning Reactjs
 
 Check out my other work (private repositories):
   - www.fhat.xyz
