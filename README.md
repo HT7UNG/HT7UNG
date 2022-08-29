@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a recent graduate currently looking for a job as a JavaScript developer with more experience doing front-end but would like to eventually become full-stack. My main languages/frameworks are JavaScript, Node.js, Express, MongoDB, Python and am currently learning Reactjs
+I am a React.js developer with almost 1 year experience working professionally. 
 
 Summary of my github:
   - https://ht7ung.github.io/RorGorB-game/
@@ -11,7 +11,6 @@ Check out my other work (private repositories):
  
 I'm currently working on:
   - My portfolio on ht7ung.github.io
-  - A landing/ecommerce page for a nail business.
  
 How to reach me:
   - ht7ung@gmail.com
