@@ -1,16 +1,11 @@
 ### Hi there 👋
 
-I am a React.js developer with almost 1 year experience working professionally. 
-
-Summary of my github:
-  - https://ht7ung.github.io/RorGorB-game/
+I am a React.js developer passionate about developing applications, customer experience and UX.
 
 Check out my other work (private repositories):
   - www.fhat.xyz: 
   - www.nailmayday.com
  
-I'm currently working on:
-  - My portfolio on ht7ung.github.io
  
 How to reach me:
   - ht7ung@gmail.com
