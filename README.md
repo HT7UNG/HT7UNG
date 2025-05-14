@@ -1,17 +1,7 @@
 ### Hi there 👋
 
-I am a React.js developer passionate about developing applications, customer experience and UX.
-
-Check out my other work (private repositories):
-  - www.fhat.xyz: 
-  - www.nailmayday.com
+I am a React.js developer
  
- 
-How to reach me:
-  - ht7ung@gmail.com
-  - https://www.linkedin.com/in/ht7ung/
-
-  
 
 <!--
 **HT7UNG/HT7UNG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
